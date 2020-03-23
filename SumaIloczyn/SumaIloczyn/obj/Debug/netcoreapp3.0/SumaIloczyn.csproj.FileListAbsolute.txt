@@ -1,0 +1,11 @@
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\bin\Debug\netcoreapp3.0\SumaIloczyn.exe
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\bin\Debug\netcoreapp3.0\SumaIloczyn.deps.json
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\bin\Debug\netcoreapp3.0\SumaIloczyn.runtimeconfig.json
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\bin\Debug\netcoreapp3.0\SumaIloczyn.runtimeconfig.dev.json
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\bin\Debug\netcoreapp3.0\SumaIloczyn.dll
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\bin\Debug\netcoreapp3.0\SumaIloczyn.pdb
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\obj\Debug\netcoreapp3.0\SumaIloczyn.csprojAssemblyReference.cache
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\obj\Debug\netcoreapp3.0\SumaIloczyn.AssemblyInfoInputs.cache
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\obj\Debug\netcoreapp3.0\SumaIloczyn.AssemblyInfo.cs
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\obj\Debug\netcoreapp3.0\SumaIloczyn.dll
+C:\Users\gabi1\source\repos\SumaIloczyn\SumaIloczyn\obj\Debug\netcoreapp3.0\SumaIloczyn.pdb

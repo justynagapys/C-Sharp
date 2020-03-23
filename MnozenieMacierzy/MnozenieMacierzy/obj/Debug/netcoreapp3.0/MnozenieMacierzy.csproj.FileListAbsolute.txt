@@ -1,0 +1,11 @@
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.0\MnozenieMacierzy.csprojAssemblyReference.cache
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.0\MnozenieMacierzy.AssemblyInfoInputs.cache
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.0\MnozenieMacierzy.AssemblyInfo.cs
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.0\MnozenieMacierzy.exe
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.0\MnozenieMacierzy.deps.json
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.0\MnozenieMacierzy.runtimeconfig.json
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.0\MnozenieMacierzy.runtimeconfig.dev.json
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.0\MnozenieMacierzy.dll
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\netcoreapp3.0\MnozenieMacierzy.pdb
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.0\MnozenieMacierzy.dll
+C:\Users\gabi1\source\repos\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\netcoreapp3.0\MnozenieMacierzy.pdb

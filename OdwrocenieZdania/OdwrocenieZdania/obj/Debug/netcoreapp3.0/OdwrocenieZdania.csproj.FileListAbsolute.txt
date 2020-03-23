@@ -1,0 +1,11 @@
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\bin\Debug\netcoreapp3.0\OdwrocenieZdania.exe
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\bin\Debug\netcoreapp3.0\OdwrocenieZdania.deps.json
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\bin\Debug\netcoreapp3.0\OdwrocenieZdania.runtimeconfig.json
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\bin\Debug\netcoreapp3.0\OdwrocenieZdania.runtimeconfig.dev.json
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\bin\Debug\netcoreapp3.0\OdwrocenieZdania.dll
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\bin\Debug\netcoreapp3.0\OdwrocenieZdania.pdb
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\obj\Debug\netcoreapp3.0\OdwrocenieZdania.csprojAssemblyReference.cache
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\obj\Debug\netcoreapp3.0\OdwrocenieZdania.AssemblyInfoInputs.cache
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\obj\Debug\netcoreapp3.0\OdwrocenieZdania.AssemblyInfo.cs
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\obj\Debug\netcoreapp3.0\OdwrocenieZdania.dll
+C:\Users\gabi1\source\repos\OdwrocenieZdania\OdwrocenieZdania\obj\Debug\netcoreapp3.0\OdwrocenieZdania.pdb

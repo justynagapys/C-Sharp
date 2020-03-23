@@ -1,0 +1,11 @@
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\bin\Debug\netcoreapp3.0\Maksimum.exe
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\bin\Debug\netcoreapp3.0\Maksimum.deps.json
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\bin\Debug\netcoreapp3.0\Maksimum.runtimeconfig.json
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\bin\Debug\netcoreapp3.0\Maksimum.runtimeconfig.dev.json
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\bin\Debug\netcoreapp3.0\Maksimum.dll
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\bin\Debug\netcoreapp3.0\Maksimum.pdb
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\obj\Debug\netcoreapp3.0\Maksimum.csprojAssemblyReference.cache
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\obj\Debug\netcoreapp3.0\Maksimum.AssemblyInfoInputs.cache
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\obj\Debug\netcoreapp3.0\Maksimum.AssemblyInfo.cs
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\obj\Debug\netcoreapp3.0\Maksimum.dll
+C:\Users\gabi1\source\repos\Maksimum\Maksimum\obj\Debug\netcoreapp3.0\Maksimum.pdb

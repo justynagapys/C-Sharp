@@ -1,0 +1,9 @@
+C:\Users\gabi1\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.csprojAssemblyReference.cache
+C:\Users\gabi1\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.Form1.resources
+C:\Users\gabi1\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.Properties.Resources.resources
+C:\Users\gabi1\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.csproj.GenerateResource.cache
+C:\Users\gabi1\source\repos\LiczbaPierwsza\LiczbaPierwsza\bin\Debug\LiczbaPierwsza.exe.config
+C:\Users\gabi1\source\repos\LiczbaPierwsza\LiczbaPierwsza\bin\Debug\LiczbaPierwsza.exe
+C:\Users\gabi1\source\repos\LiczbaPierwsza\LiczbaPierwsza\bin\Debug\LiczbaPierwsza.pdb
+C:\Users\gabi1\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.exe
+C:\Users\gabi1\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.pdb

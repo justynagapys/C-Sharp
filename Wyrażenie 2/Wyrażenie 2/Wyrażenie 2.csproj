@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Wyrażenie_2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\gabi1\Desktop\Zadanie 7 %28Wyrażenie 2%29 - Justyna Gapys.cs" Link="Zadanie 7 %28Wyrażenie 2%29 - Justyna Gapys.cs" />
+  </ItemGroup>
+
+</Project>

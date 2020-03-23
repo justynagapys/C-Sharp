@@ -1,0 +1,9 @@
+C:\Users\gabi1\source\repos\NWD\NWD\obj\Debug\NWD.csprojAssemblyReference.cache
+C:\Users\gabi1\source\repos\NWD\NWD\obj\Debug\NWD.Form1.resources
+C:\Users\gabi1\source\repos\NWD\NWD\obj\Debug\NWD.Properties.Resources.resources
+C:\Users\gabi1\source\repos\NWD\NWD\obj\Debug\NWD.csproj.GenerateResource.cache
+C:\Users\gabi1\source\repos\NWD\NWD\bin\Debug\NWD.exe.config
+C:\Users\gabi1\source\repos\NWD\NWD\bin\Debug\NWD.exe
+C:\Users\gabi1\source\repos\NWD\NWD\bin\Debug\NWD.pdb
+C:\Users\gabi1\source\repos\NWD\NWD\obj\Debug\NWD.exe
+C:\Users\gabi1\source\repos\NWD\NWD\obj\Debug\NWD.pdb

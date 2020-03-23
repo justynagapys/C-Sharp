@@ -1,0 +1,11 @@
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\bin\Debug\netcoreapp3.0\ZamianaZnakow.exe
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\bin\Debug\netcoreapp3.0\ZamianaZnakow.deps.json
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\bin\Debug\netcoreapp3.0\ZamianaZnakow.runtimeconfig.json
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\bin\Debug\netcoreapp3.0\ZamianaZnakow.runtimeconfig.dev.json
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\bin\Debug\netcoreapp3.0\ZamianaZnakow.dll
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\bin\Debug\netcoreapp3.0\ZamianaZnakow.pdb
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\obj\Debug\netcoreapp3.0\ZamianaZnakow.csprojAssemblyReference.cache
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\obj\Debug\netcoreapp3.0\ZamianaZnakow.AssemblyInfoInputs.cache
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\obj\Debug\netcoreapp3.0\ZamianaZnakow.AssemblyInfo.cs
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\obj\Debug\netcoreapp3.0\ZamianaZnakow.dll
+C:\Users\gabi1\source\repos\ZamianaZnakow\ZamianaZnakow\obj\Debug\netcoreapp3.0\ZamianaZnakow.pdb
