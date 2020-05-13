@@ -14,4 +14,5 @@ Here you can find program that:
 * inverts words of sentence (**OdwrocenieZdania**)
 * replaces the first character with the last of the sentence given by the user (**ZamianaZnakow**)
 * multiplies matrices (**MnozenieMacierzy**)
+
 and others, as well as Windows Forms applications, such as **LiczbaPierwsza**, which checks if the number is prime.
